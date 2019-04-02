@@ -1,0 +1,7 @@
+<library path="lib/libroadmap_global_planner_lib">
+  <class name="roadmap_global_planner/RoadmapGlobalPlanner" type="roadmap_global_planner::RoadmapGlobalPlanner" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>
+      A implementation of a custom roadmap planner using Dijkstras or A*
+    </description>
+  </class>
+</library>
